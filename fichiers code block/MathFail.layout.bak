@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="config.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="630" topLine="12" />
+	</File>
+	<File name="constantes.h" open="1" top="0" tabpos="3">
+		<Cursor position="821" topLine="0" />
+	</File>
+	<File name="gestion_bot.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1044" topLine="0" />
+	</File>
+	<File name="gestion_carte.cpp" open="1" top="1" tabpos="8">
+		<Cursor position="273" topLine="0" />
+	</File>
+	<File name="gestion_clavier.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="202" topLine="0" />
+	</File>
+	<File name="gestion_des_images.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="174" topLine="0" />
+	</File>
+	<File name="gestion_regles.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="177" topLine="0" />
+	</File>
+	<File name="gestion_sdl.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="200" topLine="0" />
+	</File>
+	<File name="header.h" open="1" top="0" tabpos="2">
+		<Cursor position="2551" topLine="44" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="193" topLine="0" />
+	</File>
+	<File name="ressources.rc" open="0" top="0" tabpos="0">
+		<Cursor position="18" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

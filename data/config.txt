@@ -1,0 +1,40 @@
+
+
+########  FICHIER DE CONFIGURATION - MATHFAIL v1.2  ########
+
+
+### Configuration du bot
+activation-bot    : oui
+level             : 2 / 5
+
+valeur-pion       : 100
+valeur-tour       : 800
+valeur-cavalier   : 500
+valeur-fou        : 500
+valeur-dame       : 5000
+valeur-roi        : 100
+
+gain-move         : 1
+
+
+### Condifguration de la carte
+blanc-pion        : p
+blanc-tour        : t
+blanc-cavalier    : c
+blanc-fou         : f
+blanc-dame        : d
+blanc-roi         : r
+
+noir-pion         : 1
+noir-tour         : 2
+noir-cavalier     : 3
+noir-fou          : 4
+noir-dame         : 5
+noir-roi          : 6
+
+case-vide         : .
+
+
+
+
+

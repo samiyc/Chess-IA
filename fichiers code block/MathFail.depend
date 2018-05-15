@@ -1,0 +1,575 @@
+# depslib dependency file v1.0
+1275577852 source:d:\12950\projet code block\mathfail\main.cpp
+	"constantes.h"
+	"header.h"
+	"config.cpp"
+	"gestion_sdl.cpp"
+	"gestion_des_images.cpp"
+	"gestion_carte.cpp"
+	"gestion_regles.cpp"
+
+1198769022 d:\12950\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1198769016 d:\12950\codeblocks\mingw\include\_mingw.h
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255800464 d:\12950\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_platform.h
+
+1198769024 d:\12950\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1198769022 d:\12950\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1198769020 d:\12950\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1198769020 d:\12950\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1198769022 d:\12950\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1198769022 d:\12950\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1198769018 d:\12950\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1198769020 d:\12950\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1198769018 d:\12950\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1255800450 d:\12950\codeblocks\mingw\include\begin_code.h
+
+1255800450 d:\12950\codeblocks\mingw\include\close_code.h
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1198769020 d:\12950\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_keysym.h
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255800464 d:\12950\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\begin_code.h
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\close_code.h
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 d:\12950\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1275572904 d:\12950\projet code block\mathfail\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+
+1275577106 d:\12950\projet code block\mathfail\header.h
+
+1275575013 d:\12950\projet code block\mathfail\gestion_sdl.cpp
+
+1275576135 d:\12950\projet code block\mathfail\config.cpp
+
+1275575347 d:\12950\projet code block\mathfail\gestion_des_images.cpp
+
+1275574957 d:\12950\projet code block\mathfail\gestion_carte.cpp
+
+1275578051 d:\12950\projet code block\mathfail\gestion_regles.cpp
+
+1275577854 source:c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\main.cpp
+	"constantes.h"
+	"header.h"
+	"config.cpp"
+	"gestion_sdl.cpp"
+	"gestion_des_images.cpp"
+	"gestion_carte.cpp"
+	"gestion_regles.cpp"
+
+1275582476 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+
+1275577108 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\header.h
+
+1275576136 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\config.cpp
+
+1275575014 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\gestion_sdl.cpp
+
+1275575348 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\gestion_des_images.cpp
+
+1275574958 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\gestion_carte.cpp
+
+1275583908 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010)\gestion_regles.cpp
+
+1284068743 source:c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\main.cpp
+	"constantes.h"
+	"header.h"
+	"config.cpp"
+	"gestion_sdl.cpp"
+	"gestion_des_images.cpp"
+	"gestion_carte.cpp"
+	"gestion_clavier.cpp"
+	"gestion_regles.cpp"
+	"gestion_bot.cpp"
+
+1281473395 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1284068862 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\header.h
+
+1281266224 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\config.cpp
+
+1284055936 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\gestion_sdl.cpp
+
+1284068528 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\gestion_des_images.cpp
+
+1281475215 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\gestion_carte.cpp
+
+1284069157 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\gestion_regles.cpp
+
+1284055875 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\gestion_clavier.cpp
+
+1284105698 c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\gestion_bot.cpp
+
+1281297419 source:c:\users\samuel\documents\samuel\code block\mathfail (03-06-2010-v2)\ressources.rc
+
+1281297419 source:c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\ressources.rc
+
+1284068743 source:c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\main.cpp
+	"constantes.h"
+	"header.h"
+	"config.cpp"
+	"gestion_sdl.cpp"
+	"gestion_des_images.cpp"
+	"gestion_carte.cpp"
+	"gestion_clavier.cpp"
+	"gestion_regles.cpp"
+	"gestion_bot.cpp"
+
+1284287293 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1284068862 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\header.h
+
+1284106723 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\config.cpp
+
+1284113972 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\gestion_sdl.cpp
+
+1284286052 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\gestion_des_images.cpp
+
+1281475215 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\gestion_carte.cpp
+
+1284055875 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\gestion_clavier.cpp
+
+1284069157 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\gestion_regles.cpp
+
+1284286072 c:\users\samuel\documents\samuel\code block\mathfail+kill (10-09-2010)\gestion_bot.cpp
+
+1281297419 source:c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\ressources.rc
+
+1284068743 source:c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\main.cpp
+	"constantes.h"
+	"header.h"
+	"config.cpp"
+	"gestion_sdl.cpp"
+	"gestion_des_images.cpp"
+	"gestion_carte.cpp"
+	"gestion_clavier.cpp"
+	"gestion_regles.cpp"
+	"gestion_bot.cpp"
+
+1284287293 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\constantes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1286017568 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\header.h
+
+1286015398 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\config.cpp
+
+1286015523 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\gestion_sdl.cpp
+
+1286017795 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\gestion_des_images.cpp
+
+1286018005 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\gestion_carte.cpp
+
+1284055875 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\gestion_clavier.cpp
+
+1286018219 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\gestion_regles.cpp
+
+1285078099 c:\users\samuel\documents\samuel\code block\mathfail+kill (11-09-2010)\gestion_bot.cpp
+
